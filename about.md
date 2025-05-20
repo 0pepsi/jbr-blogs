@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+# About me 
+- My name is Jbr Al-Otaibi, and I’m 17 years old.
+- I’m highly passionate about exploit development, with a strong focus on kernel exploitation and low-level system internals.
+- In my previous work, I’ve hunted bugs for major organizations and reported vulnerabilities in companies like Cisco and MasterCard.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Dont forget to check my X -> @0xmadvise
